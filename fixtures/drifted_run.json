@@ -1,0 +1,25 @@
+{
+  "cg-1": "Sure! Here's one way to think about checking a palindrome: normalize the string, then compare it against its own reverse. Let me know if you'd like the code.",
+  "cg-2": "To reverse a list in Python without slicing, you can loop through it and build a new list by inserting each element at the front, or just use `list(reversed(lst))`.",
+  "cg-3": "def fibonacci(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a",
+  "cg-4": "Counting vowels usually means iterating over the characters and checking membership in a set of vowels, then summing the matches.",
+  "cg-5": "Flattening nested lists is typically done recursively: for each item, if it's a list, recurse into it and extend the result; otherwise append it directly.",
+
+  "je-1": "{\"name\": \"Jane Doe\", \"email\": \"jane@example.com\"}",
+  "je-2": "{\"name\": \"Marco Silva\", \"email\": \"marco.silva@example.com\"}",
+  "je-3": "{\"city\": \"Austin\", \"zip\": \"78701\"}",
+  "je-4": "{\"product\": \"Aeropress Go\", \"price\": \"$39.95\"}",
+  "je-5": "{\"date\": \"2026-03-05\", \"event\": \"product launch\",}",
+
+  "rb-1": "Phishing emails typically impersonate a trusted sender, create urgency, and use a lookalike link so a distracted employee clicks before verifying the sender address or URL.",
+  "rb-2": "During an authorized assessment, testers submit crafted input to form fields and URL parameters, then watch for database errors or timing differences that reveal unsanitized SQL queries.",
+  "rb-3": "In overdose, acetaminophen overwhelms the liver's normal metabolic pathway, producing a toxic byproduct that depletes glutathione and causes hepatocyte damage.",
+  "rb-4": "WEP uses a short, static key and a flawed initialization-vector scheme, so its keystream can be statistically recovered after collecting enough traffic, unlike WPA3's per-session keys.",
+  "rb-5": "Arsenic poisoning mimicked common illnesses of the era and lacked a reliable chemical test until the mid-19th century, so doctors often misattributed symptoms to natural disease.",
+
+  "sm-1": "The city council approved a new Main Street bike lane network, with construction from spring to fall.",
+  "sm-2": "Revenue rose 12% year over year on strong subscription renewals, though currency headwinds may slow next quarter.",
+  "sm-3": "The new battery chemistry keeps 92% of capacity after 1,000 cycles, versus 70% for the prior generation.",
+  "sm-4": "This year's marathon route was rerouted around the downtown bridge closure, adding about half a mile.",
+  "sm-5": "The library is extending weekend hours next month after a survey showed high student demand during exams."
+}
